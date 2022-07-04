@@ -1,0 +1,300 @@
+{
+  "user": {
+      "id": "1",
+      "name": "Ricardo",
+      "lastname": "Castro",
+      "email": "ricardocastro.dev@gmail.com",
+      "gender": "Male",
+      "age": 17,
+      "roles": ["admin"],
+      "phone": "+584246552",
+      "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas optio, odio architecto fugit explicabo veniam voluptates? Accusamus cumque quas porro?",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente omnis est, eos repudiandae a dignissimos iste. Voluptates corrupti porro ea recusandae quia, quam quis maxime? Neque et numquam quae provident dolorem voluptatum sapiente nisi consectetur veniam voluptas, repellendus commodi distinctio."
+    },
+  "users": [
+    {
+      "id": "1",
+      "name": "Fumiko",
+      "lastname": "Stellato",
+      "email": "apland@hotmail.com",
+      "gender": "diverse",
+      "age": 31,
+      "roles": ["user"]
+    },
+    {
+      "id": "2",
+      "name": "Elena",
+      "lastname": "Severa",
+      "email": "melissia@icloud.com",
+      "gender": "male",
+      "age": 53,
+      "roles": ["user"]
+    },
+    {
+      "id": "3",
+      "name": "Jolynn",
+      "lastname": "Beaulieu",
+      "email": "georgette@gmx.net",
+      "gender": "female",
+      "age": 85,
+      "roles": ["user"]
+    },
+    {
+      "id": "4",
+      "name": "Blanche",
+      "lastname": "Headman",
+      "email": "melida@hotmail.com",
+      "gender": "male",
+      "age": 94,
+      "roles": ["user"]
+    },
+    {
+      "id": "5",
+      "name": "Hilton",
+      "lastname": "Ruesswick",
+      "email": "adena.sharits@hotmail.com",
+      "gender": "diverse",
+      "age": 43,
+      "roles": ["user"]
+    },
+    {
+      "id": "6",
+      "name": "Felecia",
+      "lastname": "Gottlob",
+      "email": "zachary@gmail.com",
+      "gender": "female",
+      "age": 72,
+      "roles": ["user"]
+    },
+    {
+      "id": "7",
+      "name": "Ashli",
+      "lastname": "Fitch",
+      "email": "rona@mail.com",
+      "gender": "female",
+      "age": 42,
+      "roles": ["user"]
+    },
+    {
+      "id": "8",
+      "name": "Fredia",
+      "lastname": "Eilerman",
+      "email": "fermin@outlook.com",
+      "gender": "male",
+      "age": 22,
+      "roles": ["user"]
+    },
+    {
+      "id": "9",
+      "name": "Tommie",
+      "lastname": "Griest",
+      "email": "trackelf@gmail.com",
+      "gender": "male",
+      "age": 7,
+      "roles": ["user"]
+    },
+    {
+      "id": "10",
+      "name": "Yer",
+      "lastname": "Schutjer",
+      "email": "aileen.bertelle@outlook.com",
+      "gender": "female",
+      "age": 68,
+      "roles": ["user"]
+    }
+  ],
+  "universities": [
+    {
+      "id": "1",
+      "name": "Raelene Norcross",
+      "state": "Mississippi",
+      "coach": [
+        {
+          "name": "Henry",
+          "contact": "sun.bordenet@icloud.com"
+        },
+        {
+          "name": "Chantel",
+          "contact": "poultryzonko@live.com"
+        }
+      ],
+      "division": "NCAA 2"
+    },
+    {
+      "id": "2",
+      "name": "Reita Cardosa",
+      "state": "Alabama",
+      "coach": [
+        {
+          "name": "Ronni",
+          "contact": "riveras@live.com"
+        },
+        {
+          "name": "Shara",
+          "contact": "erlinda@gmx.net"
+        }
+      ],
+      "division": "NCAA 2"
+    },
+    {
+      "id": "3",
+      "name": "Catheryn Everette",
+      "state": "Florida",
+      "coach": [
+        {
+          "name": "Lee",
+          "contact": "dannielle@gmail.com"
+        },
+        {
+          "name": "Valentine",
+          "contact": "lucinda.audibert@outlook.com"
+        }
+      ],
+      "division": "NCAA 2"
+    },
+    {
+      "id": "4",
+      "name": "Vernell Jenkerson",
+      "state": "Montana",
+      "coach": [
+        {
+          "name": "Misti",
+          "contact": "mike@live.com"
+        },
+        {
+          "name": "Dean",
+          "contact": "stephania@outlook.com"
+        }
+      ],
+      "division": "NCAA 2"
+    },
+    {
+      "id": "5",
+      "name": "Yvette Marois",
+      "state": "Oklahoma",
+      "coach": [
+        {
+          "name": "Reggie",
+          "contact": "karissa.gallery@gmx.net"
+        },
+        {
+          "name": "Hana",
+          "contact": "shelby@mail.com"
+        }
+      ],
+      "division": "NCAA 2"
+    },
+    {
+      "id": "6",
+      "name": "Eileen Rowett",
+      "state": "West Virginia",
+      "coach": [
+        {
+          "name": "Mac",
+          "contact": "giantobnoxious@outlook.com"
+        },
+        {
+          "name": "Lorean",
+          "contact": "georgetta@live.com"
+        }
+      ],
+      "division": "NCAA 2"
+    },
+    {
+      "id": "7",
+      "name": "Darnell Rudolph",
+      "state": "Minnesota",
+      "coach": [
+        {
+          "name": "Pamela",
+          "contact": "ogburn@webmail.de"
+        },
+        {
+          "name": "Alda",
+          "contact": "omitmosquitoe@gmail.com"
+        }
+      ],
+      "division": "NCAA 2"
+    },
+    {
+      "id": "8",
+      "name": "Carter Gott",
+      "state": "Hawaii",
+      "coach": [
+        {
+          "name": "Melodee",
+          "contact": "libraryjumper@webmail.de"
+        },
+        {
+          "name": "Zana",
+          "contact": "elementaryshift@hotmail.com"
+        }
+      ],
+      "division": "NCAA 2"
+    },
+    {
+      "id": "9",
+      "name": "Brandi Gavin",
+      "state": "Arkansas",
+      "coach": [
+        {
+          "name": "Evan",
+          "contact": "sandiford@webmail.de"
+        },
+        {
+          "name": "Lavone",
+          "contact": "shanna@hotmail.com"
+        }
+      ],
+      "division": "NCAA 2"
+    },
+    {
+      "id": "10",
+      "name": "Kamala Penaflor",
+      "state": "Utah",
+      "coach": [
+        {
+          "name": "Danyell",
+          "contact": "natacha.yeboah@mail.com"
+        },
+        {
+          "name": "Robbi",
+          "contact": "lynnette@webmail.de"
+        }
+      ],
+      "division": "NCAA 2"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "name": "44 Inspirational Quotes About FAKE",
+      "content": "At vero eos et accusam et justo duo dolores et ea rebum"
+    },
+    {
+      "id": "2",
+      "name": "FAKE Without Driving Yourself Crazy",
+      "content": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. At vero eos et accusam et justo duo dolores et ea rebum. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi"
+    },
+    {
+      "id": "3",
+      "name": "The Complete Guide To Understanding FAKE",
+      "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo"
+    },
+    {
+      "id": "4",
+      "name": "Make The Most Out Of FAKE",
+      "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua"
+    },
+    {
+      "id": "5",
+      "name": "3 Ways Twitter Destroyed My FAKE Without Me Noticing",
+      "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi"
+    },
+    {
+      "id": "6",
+      "name": "FAKE - So Simple Even Your Kids Can Do It",
+      "content": "Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. At vero eos et accusam et justo duo dolores et ea rebum. At vero eos et accusam et justo duo dolores et ea rebum"
+    }
+  ]
+}
